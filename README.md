@@ -1,1 +1,1 @@
-# TRVD_2025_201_TK_Kolomiiets_Lab01
+TRVD_2025_201_TK_kolomiiets_Lab1
